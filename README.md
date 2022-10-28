@@ -1,4 +1,4 @@
-# tesla_animation_app
+# tesla_mobile_app
 
 Animation App.\
 An Animated UI for tesla mobile app
