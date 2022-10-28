@@ -1,16 +1,8 @@
 # tesla_animation_app
 
-Pro Animation App
+Animation App.\
+An Animated UI for tesla mobile app
 
-## Getting Started
+## App overview
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/113328135/198507897-2839d27e-38e4-4804-a8b5-4f2a4b7473aa.mp4
