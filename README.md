@@ -1,7 +1,7 @@
 # tesla_mobile_app
 
 Animation App.\
-An Animated UI for tesla mobile app.\
+An Animated UI for tesla mobile app.
 
 This branch utilises **simple_animations** and **supercharged** packages in order to make code more readable and maintainable.\
 These packages reduced the code by 26 lines.
