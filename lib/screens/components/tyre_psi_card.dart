@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../constanins.dart';
+import '../../constants.dart';
 import '../../models/TyrePsi.dart';
 
 class TyrePsiCard extends StatelessWidget {

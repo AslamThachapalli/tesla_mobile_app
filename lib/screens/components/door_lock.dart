@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 
-import '../../constanins.dart';
+import '../../constants.dart';
 
 class DoorLock extends StatelessWidget {
   const DoorLock({

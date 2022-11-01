@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:tesla_animation_app/screens/components/temp_btn.dart';
 
-import '../../constanins.dart';
+import '../../constants.dart';
 import '../../home_controller.dart';
 
 class TempDetails extends StatelessWidget {

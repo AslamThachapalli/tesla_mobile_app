@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../constanins.dart';
+import '../../constants.dart';
 
 class BatteryStatus extends StatelessWidget {
   const BatteryStatus({

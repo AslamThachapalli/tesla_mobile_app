@@ -59,7 +59,7 @@ class HomeController extends ChangeNotifier {
   bool showTyres = false;
 
   void showTyresController(int index) {
-    if (selectedBottomTab != 3 && index == 3) {
+    if (index == 3) {
       Future.delayed(const Duration(milliseconds: 400), () {
         showTyres = true;
         notifyListeners();
@@ -73,7 +73,7 @@ class HomeController extends ChangeNotifier {
   bool isShowTypePsi = false;
 
   void showTyrePsiController(int index) {
-    if (selectedBottomTab != 3 && index == 3) {
+    if (index == 3) {
       isShowTypePsi = true;
       notifyListeners();
     } else {
